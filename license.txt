@@ -1,0 +1,15 @@
+LICENSE AGREEMENT:
+SATSAGEN is provided as Freeware, but for non-commercial use only.
+SATSAGEN is free for educational use in schools and universities, and for use in HAM Radio clubs.
+
+RESTRICTIONS:
+YOU MAY NOT MODIFY, ADAPT, TRANSLATE, RENT, LEASE, LOAN, SELL, ONSELL, REQUEST DONATIONS OR CREATE
+DERIVATIVE WORKS BASED UPON THE SOFTWARE OR ANY PART THEREOF.
+DO NOT USE THIS SOFTWARE FOR ANY JAMMING PURPOSES OF RADIO COMMUNICATIONS.
+DO NOT USE THIS SOFTWARE FOR ANY MILITARY PURPOSES.
+
+DISCLAIMER:
+This SATSAGEN is provided by the author "as is" and "with all faults."
+The author and albfer.com makes no representations or warranties of any kind concerning the safety, suitability, lack of viruses, inaccuracies, typographical errors, or other harmful components of this SATSAGEN.
+There are inherent dangers in the use of any software, and you are solely responsible for determining whether this SATSAGEN is compatible with your equipment and other software installed on your equipment.
+You are also solely responsible for the protection of your equipment and backup of your data, and the author and albfer.com will not be liable for any damages you may suffer in connection with using, modifying, or distributing this SATSAGEN.
